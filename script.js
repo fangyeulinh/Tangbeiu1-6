@@ -1,7 +1,7 @@
 
 const loveTaps = new Set();
 let userName = '';
-const correctNames = ["Phương Thùy", "AAA"];
+const correctName = "Phương Thùy"; 
 
 function startApp() {
   const stageIds = ['cardStage', 'startStage', 'inputStage', 'loveStage'];
